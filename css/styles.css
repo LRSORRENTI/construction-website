@@ -3160,7 +3160,7 @@ img.u-pull-left {
     bottom              : 0;
     width               : 100%;
     height              : 100%;
-    background-image    : url(../images/hero-bg.jpg);
+    background-image    : url(../images/hero-bg.webp);
     background-repeat   : no-repeat;
     background-position : center 30%;
     background-size     : cover;
@@ -3527,7 +3527,7 @@ img.u-pull-left {
     bottom              : 0;
     width               : 100%;
     height              : 100%;
-    background-image    : url(../images/services-bg.jpg);
+    background-image    : url(../images/services-bg.webp);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
@@ -3980,7 +3980,7 @@ img.u-pull-left {
     --color-border      : rgba(255, 255, 255, .05);
 
     background-color    : var(--color-gray-19);
-    background-image    : url(../images/contact-bg.jpg);
+    background-image    : url(../images/contact-bg.webp);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
